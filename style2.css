@@ -172,6 +172,7 @@ option{
         background-color:#caebe7;
         height: 80vh;
         margin-top: 7%;
+        overflow: hidden;
     }
 .middle{
     
@@ -208,4 +209,8 @@ option{
   padding-right: 20%;
   padding-top: 0%;
   ;
+ }
+
+ i{
+    overflow: hidden;
  }
